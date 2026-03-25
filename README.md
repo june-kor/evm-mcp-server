@@ -3,6 +3,7 @@
 60개 이상의 EVM(이더리움 가상 머신) 호환 네트워크에서 블록체인 서비스를 제공하는 포괄적인 MCP(모델 컨텍스트 프로토콜) 서버입니다. 이 서버는 AI(인공지능) 에이전트가 22개의 도구와 10개의 AI(인공지능) 가이드 프롬프트를 통해 단일 인터페이스로 Ethereum, Optimism, Arbitrum, Base, Polygon 및 기타 여러 EVM(이더리움 가상 머신) 체인과 상호 작용할 수 있도록 합니다.
 
 **제작 june-kor (a Member of SIGMA-K Inc.)**
+
 **국내 최초로 EVM 기반 MCP 서버 리포지토리 제작 및 운용**
 
 ## 📋 목차 (Contents)
